@@ -1,0 +1,6 @@
+pkg update && pkg upgrade 
+pkg install git 
+git clone https://github.com/Jigme-tenzin/jigme-Tenzin.git
+cd jigme-Tenzin
+ls
+bash Jigme-Tools.sh
